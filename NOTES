@@ -5,7 +5,7 @@ div -> fields, division rings
 euclidean -> defined
 floor -> round toward -inf
 truncate -> round toward 0
-
+ 
 equotmod, equot, emod
 fquotmod, fquot, fmod
 tquotemod, tquot, tmod
